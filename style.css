@@ -141,6 +141,8 @@ h1, h3{
 
 .box-overlay{
     width: 100%;
+    position: relative;
+    font-size: 0px;
 }
 
 .box-60{
